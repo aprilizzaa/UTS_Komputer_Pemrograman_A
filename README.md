@@ -1,4 +1,8 @@
-
+# NAMA KELOMPOK 15
+1. Aprilizza Auliya (G1A025007)
+2. Abdillah Siraj Al Haqqi(G1A025021)
+3. Sri Wahyuni (G1A025047)
+   
 # OVERVIEW STUDI KASUS
 ## SISTEM MANAJEMEN PROYEK IT
 Laporan ini menjelesakan tentang sebuah perusahaan yang ingin memantau proyek, tugas, dan kinerja tiap developernya. Dimana pada laporan ini proyeknya dinamai dengan "Platform E-Learning" yang berisikan 4 class yaitu terdapat class Tugas, class Developer, class Proyek, dan class Main nya. 
