@@ -10,3 +10,4 @@ Laporan ini menjelesakan tentang sebuah perusahaan yang ingin memantau proyek, t
 Secara Keseluruhan class-class tersebut menggunakan konsep OOP yaitu Object-Oriented Programming seperti adanya penggunaan encapsulation. Lalu pada class-class tersebut menggunakan Scanner untuk pengisian outputnya pada terminal, serta menggunakan Array List dan list. Dan dalam laporan ini tercantum 4 developer yang akan dipantau kinerjanya melalui output di terminal, yaitu terdapat progressnya, total jam yang dibutuhkan, serta jumlah tugasnya ada berapa tugas yang dikerjakan tiap developernya serta mencari siapa developer yang paling produktif pada proyek "Platform E-Learning tersebut sesuai persentase dari progress kinerja tiap developer.
 
 
+
